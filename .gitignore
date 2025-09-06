@@ -2,3 +2,4 @@ checkpoints/
 model/
 model_attention/
 checkpoints_attention/
+__pycache__/
